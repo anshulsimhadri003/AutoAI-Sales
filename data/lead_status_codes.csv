@@ -1,0 +1,51 @@
+status_code,status_label,category
+OPEN_NEW,New lead received,active
+OPEN_UNASSIGNED,Awaiting rep assignment,active
+WORKING_CONTACTED,Initial outreach sent,active
+WORKING_REPLIED,Customer replied,active
+WORKING_HIGH_INTENT,High intent detected,active
+WORKING_FINANCE,Finance workflow active,active
+WORKING_TRADE_IN,Trade-in workflow active,active
+WORKING_APPT_PENDING,Appointment offer pending,active
+APPT_SET,Appointment scheduled,progress
+APPT_CONFIRMED,Appointment confirmed,progress
+APPT_RESCHEDULED,Appointment rescheduled,progress
+APPT_COMPLETED,Appointment completed,progress
+NO_SHOW,Customer no-show,progress
+NURTURE_ACTIVE,Automated nurture active,active
+NURTURE_PAUSED_REPLY,Paused due to customer reply,active
+NURTURE_PAUSED_OPTOUT,Paused due to opt-out,closed
+ESCALATED_MANAGER,Escalated to manager,active
+ESCALATED_SPECIALIST,Escalated to specialist,active
+MERGED_DUPLICATE,Merged into primary lead,closed
+CLOSED_WON,Vehicle sold,closed
+CLOSED_LOST_PRICE,Lost on price,closed
+CLOSED_LOST_AVAILABILITY,Lost on availability,closed
+CLOSED_LOST_TIMING,Lost due to timing,closed
+CLOSED_LOST_COMPETITOR,Lost to competitor,closed
+CLOSED_NO_RESPONSE,No response from customer,closed
+CLOSED_INVALID,Invalid contact information,closed
+CLOSED_OUT_OF_MARKET,Customer outside market,closed
+OPT_OUT_SMS,Opted out of SMS,closed
+OPT_OUT_EMAIL,Opted out of email,closed
+OPT_OUT_ALL,Opted out of all messaging,closed
+OPEN_NEW_31,New lead received Variant 1,active
+OPEN_UNASSIGNED_32,Awaiting rep assignment Variant 2,active
+WORKING_CONTACTED_33,Initial outreach sent Variant 3,active
+WORKING_REPLIED_34,Customer replied Variant 4,active
+WORKING_HIGH_INTENT_35,High intent detected Variant 5,active
+WORKING_FINANCE_36,Finance workflow active Variant 6,active
+WORKING_TRADE_IN_37,Trade-in workflow active Variant 7,active
+WORKING_APPT_PENDING_38,Appointment offer pending Variant 8,active
+APPT_SET_39,Appointment scheduled Variant 9,progress
+APPT_CONFIRMED_40,Appointment confirmed Variant 10,progress
+APPT_RESCHEDULED_41,Appointment rescheduled Variant 11,progress
+APPT_COMPLETED_42,Appointment completed Variant 12,progress
+NO_SHOW_43,Customer no-show Variant 13,progress
+NURTURE_ACTIVE_44,Automated nurture active Variant 14,active
+NURTURE_PAUSED_REPLY_45,Paused due to customer reply Variant 15,active
+NURTURE_PAUSED_OPTOUT_46,Paused due to opt-out Variant 16,closed
+ESCALATED_MANAGER_47,Escalated to manager Variant 17,active
+ESCALATED_SPECIALIST_48,Escalated to specialist Variant 18,active
+MERGED_DUPLICATE_49,Merged into primary lead Variant 19,closed
+CLOSED_WON_50,Vehicle sold Variant 20,closed

@@ -1,0 +1,13 @@
+[Unit]
+Description=[YourBrand] Auto Sales React Frontend
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/AutoAI_Sales/frontend
+ExecStart=/usr/bin/npm run preview -- --host 127.0.0.1 --port 4173
+Restart=always
+RestartSec=5
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

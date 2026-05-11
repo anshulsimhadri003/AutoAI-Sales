@@ -1,0 +1,99 @@
+dealership_id,dealership_name,day_of_week,open_time,close_time,is_open,timezone
+dealer-001,Liberty Auto Group,Monday,08:30,19:00,true,America/Denver
+dealer-001,Liberty Auto Group,Tuesday,08:30,19:00,true,America/New_York
+dealer-001,Liberty Auto Group,Wednesday,08:30,19:00,true,America/Los_Angeles
+dealer-001,Liberty Auto Group,Thursday,08:30,19:00,true,America/Chicago
+dealer-001,Liberty Auto Group,Friday,08:30,19:00,true,America/Los_Angeles
+dealer-001,Liberty Auto Group,Saturday,09:00,18:00,true,America/Los_Angeles
+dealer-001,Liberty Auto Group,Sunday,11:00,17:00,true,America/Denver
+dealer-002,Summit Motors,Monday,08:30,19:00,true,America/Denver
+dealer-002,Summit Motors,Tuesday,08:30,19:00,true,America/Chicago
+dealer-002,Summit Motors,Wednesday,08:30,19:00,true,America/Denver
+dealer-002,Summit Motors,Thursday,08:30,19:00,true,America/Chicago
+dealer-002,Summit Motors,Friday,08:30,19:00,true,America/Denver
+dealer-002,Summit Motors,Saturday,09:00,18:00,true,America/Los_Angeles
+dealer-002,Summit Motors,Sunday,11:00,17:00,true,America/Los_Angeles
+dealer-003,Patriot Drive Auto,Monday,08:30,19:00,true,America/Chicago
+dealer-003,Patriot Drive Auto,Tuesday,08:30,19:00,true,America/Chicago
+dealer-003,Patriot Drive Auto,Wednesday,08:30,19:00,true,America/Denver
+dealer-003,Patriot Drive Auto,Thursday,08:30,19:00,true,America/Denver
+dealer-003,Patriot Drive Auto,Friday,08:30,19:00,true,America/Chicago
+dealer-003,Patriot Drive Auto,Saturday,09:00,18:00,true,America/Chicago
+dealer-003,Patriot Drive Auto,Sunday,11:00,17:00,true,America/Los_Angeles
+dealer-004,Redwood Auto Center,Monday,08:30,19:00,true,America/Los_Angeles
+dealer-004,Redwood Auto Center,Tuesday,08:30,19:00,true,America/Chicago
+dealer-004,Redwood Auto Center,Wednesday,08:30,19:00,true,America/Los_Angeles
+dealer-004,Redwood Auto Center,Thursday,08:30,19:00,true,America/New_York
+dealer-004,Redwood Auto Center,Friday,08:30,19:00,true,America/Denver
+dealer-004,Redwood Auto Center,Saturday,09:00,18:00,true,America/Los_Angeles
+dealer-004,Redwood Auto Center,Sunday,11:00,17:00,true,America/New_York
+dealer-005,Blue Ridge Motors,Monday,08:30,19:00,true,America/Chicago
+dealer-005,Blue Ridge Motors,Tuesday,08:30,19:00,true,America/Los_Angeles
+dealer-005,Blue Ridge Motors,Wednesday,08:30,19:00,true,America/Chicago
+dealer-005,Blue Ridge Motors,Thursday,08:30,19:00,true,America/Denver
+dealer-005,Blue Ridge Motors,Friday,08:30,19:00,true,America/Chicago
+dealer-005,Blue Ridge Motors,Saturday,09:00,18:00,true,America/New_York
+dealer-005,Blue Ridge Motors,Sunday,11:00,17:00,true,America/Chicago
+dealer-006,Prairie State Autos,Monday,08:30,19:00,true,America/New_York
+dealer-006,Prairie State Autos,Tuesday,08:30,19:00,true,America/Los_Angeles
+dealer-006,Prairie State Autos,Wednesday,08:30,19:00,true,America/Los_Angeles
+dealer-006,Prairie State Autos,Thursday,08:30,19:00,true,America/New_York
+dealer-006,Prairie State Autos,Friday,08:30,19:00,true,America/Denver
+dealer-006,Prairie State Autos,Saturday,09:00,18:00,true,America/Denver
+dealer-006,Prairie State Autos,Sunday,11:00,17:00,true,America/Denver
+dealer-007,Sunbelt Vehicle Center,Monday,08:30,19:00,true,America/Los_Angeles
+dealer-007,Sunbelt Vehicle Center,Tuesday,08:30,19:00,true,America/Los_Angeles
+dealer-007,Sunbelt Vehicle Center,Wednesday,08:30,19:00,true,America/Denver
+dealer-007,Sunbelt Vehicle Center,Thursday,08:30,19:00,true,America/Chicago
+dealer-007,Sunbelt Vehicle Center,Friday,08:30,19:00,true,America/Denver
+dealer-007,Sunbelt Vehicle Center,Saturday,09:00,18:00,true,America/Chicago
+dealer-007,Sunbelt Vehicle Center,Sunday,11:00,17:00,true,America/Denver
+dealer-008,Great Lakes Automotive,Monday,08:30,19:00,true,America/Chicago
+dealer-008,Great Lakes Automotive,Tuesday,08:30,19:00,true,America/Los_Angeles
+dealer-008,Great Lakes Automotive,Wednesday,08:30,19:00,true,America/Denver
+dealer-008,Great Lakes Automotive,Thursday,08:30,19:00,true,America/Denver
+dealer-008,Great Lakes Automotive,Friday,08:30,19:00,true,America/New_York
+dealer-008,Great Lakes Automotive,Saturday,09:00,18:00,true,America/Denver
+dealer-008,Great Lakes Automotive,Sunday,11:00,17:00,true,America/Chicago
+dealer-009,Canyon View Auto,Monday,08:30,19:00,true,America/New_York
+dealer-009,Canyon View Auto,Tuesday,08:30,19:00,true,America/Denver
+dealer-009,Canyon View Auto,Wednesday,08:30,19:00,true,America/Denver
+dealer-009,Canyon View Auto,Thursday,08:30,19:00,true,America/Los_Angeles
+dealer-009,Canyon View Auto,Friday,08:30,19:00,true,America/New_York
+dealer-009,Canyon View Auto,Saturday,09:00,18:00,true,America/Chicago
+dealer-009,Canyon View Auto,Sunday,11:00,17:00,true,America/Denver
+dealer-010,Coastal Highway Motors,Monday,08:30,19:00,true,America/Los_Angeles
+dealer-010,Coastal Highway Motors,Tuesday,08:30,19:00,true,America/Denver
+dealer-010,Coastal Highway Motors,Wednesday,08:30,19:00,true,America/New_York
+dealer-010,Coastal Highway Motors,Thursday,08:30,19:00,true,America/Chicago
+dealer-010,Coastal Highway Motors,Friday,08:30,19:00,true,America/Los_Angeles
+dealer-010,Coastal Highway Motors,Saturday,09:00,18:00,true,America/Denver
+dealer-010,Coastal Highway Motors,Sunday,11:00,17:00,true,America/Chicago
+dealer-011,Heartland Auto Plaza,Monday,08:30,19:00,true,America/Denver
+dealer-011,Heartland Auto Plaza,Tuesday,08:30,19:00,true,America/Denver
+dealer-011,Heartland Auto Plaza,Wednesday,08:30,19:00,true,America/New_York
+dealer-011,Heartland Auto Plaza,Thursday,08:30,19:00,true,America/New_York
+dealer-011,Heartland Auto Plaza,Friday,08:30,19:00,true,America/Denver
+dealer-011,Heartland Auto Plaza,Saturday,09:00,18:00,true,America/Los_Angeles
+dealer-011,Heartland Auto Plaza,Sunday,11:00,17:00,true,America/New_York
+dealer-012,Capital City Motors,Monday,08:30,19:00,true,America/New_York
+dealer-012,Capital City Motors,Tuesday,08:30,19:00,true,America/New_York
+dealer-012,Capital City Motors,Wednesday,08:30,19:00,true,America/New_York
+dealer-012,Capital City Motors,Thursday,08:30,19:00,true,America/Chicago
+dealer-012,Capital City Motors,Friday,08:30,19:00,true,America/Denver
+dealer-012,Capital City Motors,Saturday,09:00,18:00,true,America/Chicago
+dealer-012,Capital City Motors,Sunday,11:00,17:00,true,America/Chicago
+dealer-013,Pioneer Auto Mall,Monday,08:30,19:00,true,America/Denver
+dealer-013,Pioneer Auto Mall,Tuesday,08:30,19:00,true,America/New_York
+dealer-013,Pioneer Auto Mall,Wednesday,08:30,19:00,true,America/Los_Angeles
+dealer-013,Pioneer Auto Mall,Thursday,08:30,19:00,true,America/New_York
+dealer-013,Pioneer Auto Mall,Friday,08:30,19:00,true,America/New_York
+dealer-013,Pioneer Auto Mall,Saturday,09:00,18:00,true,America/New_York
+dealer-013,Pioneer Auto Mall,Sunday,11:00,17:00,true,America/New_York
+dealer-014,Lone Star Auto Hub,Monday,08:30,19:00,true,America/Los_Angeles
+dealer-014,Lone Star Auto Hub,Tuesday,08:30,19:00,true,America/Chicago
+dealer-014,Lone Star Auto Hub,Wednesday,08:30,19:00,true,America/Los_Angeles
+dealer-014,Lone Star Auto Hub,Thursday,08:30,19:00,true,America/Denver
+dealer-014,Lone Star Auto Hub,Friday,08:30,19:00,true,America/New_York
+dealer-014,Lone Star Auto Hub,Saturday,09:00,18:00,true,America/Los_Angeles
+dealer-014,Lone Star Auto Hub,Sunday,11:00,17:00,true,America/Denver

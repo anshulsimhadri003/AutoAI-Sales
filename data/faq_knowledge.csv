@@ -1,0 +1,11 @@
+knowledge_id,intent_tag,title,text
+KN-001,general_help,Capabilities,"We can help customers with vehicle availability, pricing, finance options, trade-ins, test drives, appointments, and dealership visits."
+KN-002,greeting,Greeting,"A short greeting should quickly explain that we can help with inventory, pricing, finance, trade-ins, and scheduling."
+KN-003,capability,Capabilities,"For generic help questions, explain the services we support and invite the customer to choose pricing, availability, finance, trade-in, or test drive."
+KN-004,availability,Availability,"For availability questions, confirm that we can check whether a vehicle is in stock, reserved, sold, or available for a test drive."
+KN-005,finance,Finance,"For finance questions, explain that we can share estimated payments, finance options, and next steps for a pre-check without guaranteeing approvals."
+KN-006,trade_in,Trade-In,"For trade-in questions, ask for the current vehicle year, make, model, mileage, and condition to guide next steps."
+KN-007,test_drive,Test Drive,"For test drive questions, offer to help with the next available appointment time and confirm availability."
+KN-008,appointment,Appointments,"For appointment questions, offer to find slots based on rep availability and store hours."
+KN-009,pricing,Pricing,"For pricing questions, explain that we can share vehicle pricing context and next steps, but avoid inventing discounts or fees."
+KN-010,general_help,Brand Voice,"Replies should be concise, professional, helpful, and should invite the customer to choose the next step."

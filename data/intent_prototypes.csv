@@ -1,0 +1,71 @@
+label,example_text
+greeting,Hi
+greeting,Hello
+greeting,Hey there
+greeting,Good morning
+greeting,Good afternoon
+capability,What can you do?
+capability,How can you help me?
+capability,What services do you provide?
+capability,Who are you?
+capability,What do you do?
+general_help,Help me choose the right next step
+general_help,Can you help me with a vehicle inquiry?
+general_help,I need help with a car purchase
+general_help,Please help me with my options
+general_help,I need general help
+finance,What would my monthly payment look like?
+finance,Can I get pre-approved today?
+finance,I want to know the interest rate options.
+finance,Do you offer financing for this SUV?
+finance,Can someone walk me through loan terms?
+test_drive,Can I schedule a test drive this afternoon?
+test_drive,I want to come in and drive the truck.
+test_drive,Do you have time slots open tomorrow?
+test_drive,I'd like to test drive the SUV this weekend.
+test_drive,Can I book a drive for the Mustang?
+availability,Is this vehicle still available?
+availability,Has the Escalade been sold already?
+availability,Can you confirm the truck is on the lot?
+availability,Is the Bronco available right now?
+availability,I just want to check if this unit is still in stock.
+trade_in,I have a car to trade in.
+trade_in,Can I get an estimate for my trade?
+trade_in,Do you accept trade-ins toward a new truck?
+trade_in,I'd like to swap my current SUV.
+trade_in,How does the trade-in process work?
+pricing,What is your best out-the-door price?
+pricing,Can you send the final price with fees?
+pricing,I'm comparing prices on this Jeep.
+pricing,What discounts are available right now?
+pricing,Can you quote me on the exact trim?
+family_vehicle,I need something safe for my family.
+family_vehicle,We need a third row for our kids.
+family_vehicle,Looking for a road trip SUV with space.
+family_vehicle,Need room for car seats and luggage.
+family_vehicle,What family-friendly options do you have?
+truck_buyer,I need a truck for towing.
+truck_buyer,Looking for a 4x4 pickup.
+truck_buyer,Which truck has the best payload?
+truck_buyer,Need a work truck for my business.
+truck_buyer,Show me your full-size truck options.
+luxury,I'm looking for a premium interior and features.
+luxury,Interested in the Escalade or Navigator.
+luxury,Show me your luxury SUV lineup.
+luxury,I want something upscale and comfortable.
+luxury,Which trims have the best luxury package?
+ev_interest,What is the range on this EV?
+ev_interest,Does it qualify for any incentives?
+ev_interest,I want to compare electric SUVs.
+ev_interest,Tell me about charging times.
+ev_interest,Which electric models do you have in stock?
+objection,That price is higher than I expected.
+objection,I'm not ready to commit yet.
+objection,I need to think about it.
+objection,Another dealer offered me a better deal.
+objection,I'm worried about the payment.
+appointment,Can I come by today at 5?
+appointment,Please book me for tomorrow morning.
+appointment,I'd like to set an appointment.
+appointment,Can I visit the showroom this evening?
+appointment,Reserve a time for me to stop by.

@@ -1,0 +1,14 @@
+!.env.example
+*.db
+*.db.env
+*.pyc
+.DS_Store
+.env
+.env.*
+.pytest_cache/
+.venv/
+__pycache__/
+alembic.ini.bak
+dist/
+frontend/dist/
+node_modules/

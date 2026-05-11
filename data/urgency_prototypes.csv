@@ -1,0 +1,31 @@
+label,example_text
+Immediate,Can I see it today?
+Immediate,I want to buy this week.
+Immediate,Please call me as soon as possible.
+Immediate,I need an answer right now.
+Immediate,I'm ready to move forward today.
+Short-Term,I'm planning to visit this weekend.
+Short-Term,Can we talk tomorrow?
+Short-Term,I want to make a decision in the next few days.
+Short-Term,Please follow up later this week.
+Short-Term,I'm hoping to buy soon.
+Research Phase,Just starting my search.
+Research Phase,I'm comparing a few options.
+Research Phase,Not in a rush yet.
+Research Phase,Still doing research for now.
+Research Phase,I may be ready next month.
+Escalation,This is frustrating and I need help.
+Escalation,I have a complicated financing question.
+Escalation,Can a manager contact me?
+Escalation,I need a specialist to explain this.
+Escalation,This issue needs immediate attention.
+Opt_Out,Please stop messaging me.
+Opt_Out,Take me off your list.
+Opt_Out,Do not contact me again.
+Opt_Out,Unsubscribe me from these texts.
+Opt_Out,I want to opt out.
+High_Intent,I'm ready to leave a deposit.
+High_Intent,Let's lock this in today.
+High_Intent,Send me the next steps to purchase.
+High_Intent,I want to finish this deal quickly.
+High_Intent,I'm serious about buying now.

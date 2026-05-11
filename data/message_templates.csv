@@ -1,0 +1,31 @@
+template_id,channel,template_type,intent_tag,urgency_tag,brand_tone,text,is_active
+TMP-001,any,reply,general_help,Research Phase,helpful,"I can help with vehicle availability, pricing, financing, trade-ins, test drives, appointments, and dealership visits. Tell me what you'd like help with.",true
+TMP-002,any,reply,greeting,Research Phase,friendly,"Hi — I can help with inventory, pricing, finance options, trade-ins, test drives, and appointments. What would you like help with today?",true
+TMP-003,any,reply,capability,Research Phase,helpful,"I can help you check vehicle availability, review pricing, compare finance options, discuss trade-ins, and book test drives or dealership visits. What would you like to do next?",true
+TMP-004,any,reply,thanks,Research Phase,friendly,"You're welcome. If you'd like, I can help with availability, pricing, finance options, or booking a test drive.",true
+TMP-005,email,reply,availability,Immediate,professional,"I can help check the latest availability for {vehicle} at {dealership_name}. If you'd like, I can also share similar available options.",true
+TMP-006,sms,reply,availability,Short-Term,helpful,I can check whether {vehicle} is still available and help with next steps. Would you like availability plus similar options too?,true
+TMP-007,whatsapp,reply,availability,Research Phase,helpful,"I can help confirm the latest status and location for {vehicle}. If you'd like, I can also suggest similar vehicles.",true
+TMP-008,email,reply,finance,Immediate,professional,"I can help with finance options for {vehicle}, including estimated payments and a quick pre-check. Would you like to start with monthly payment guidance or a callback?",true
+TMP-009,sms,reply,finance,Short-Term,helpful,I can help with finance options and a quick pre-check for {vehicle}. Would you like estimated payments or the next steps?,true
+TMP-010,whatsapp,reply,finance,Research Phase,helpful,I can walk you through financing options for {vehicle} and outline the next steps for a pre-check. What would you like to review first?,true
+TMP-011,email,reply,test_drive,Immediate,professional,Absolutely — I can help schedule a test drive for {vehicle} at {dealership_name}. Share your preferred day and time and I’ll help with the next available slot.,true
+TMP-012,sms,reply,test_drive,Short-Term,friendly,I can help arrange a test drive for {vehicle}. Let me know your preferred day and time and I’ll check the next available slot.,true
+TMP-013,whatsapp,reply,test_drive,Research Phase,helpful,I can help book a test drive for {vehicle} and share the next available times. What day works best for you?,true
+TMP-014,email,reply,trade_in,Immediate,professional,"I can help with the trade-in process for your current vehicle and explain the next steps toward {vehicle}. If you'd like, share your vehicle year, make, model, and mileage.",true
+TMP-015,sms,reply,trade_in,Short-Term,helpful,"We can help with a trade-in toward {vehicle}. Share your current vehicle year, make, model, and mileage and I’ll guide the next step.",true
+TMP-016,whatsapp,reply,trade_in,Research Phase,helpful,I can help you get started with a trade-in for your current vehicle and explain next steps toward {vehicle}.,true
+TMP-017,email,reply,pricing,Immediate,professional,"I can help you review pricing for {vehicle} and walk through the next steps. If you'd like, I can also help with finance options or a test drive.",true
+TMP-018,sms,reply,pricing,Short-Term,helpful,I can help with pricing details for {vehicle}. Would you like pricing plus finance options or pricing plus availability?,true
+TMP-019,whatsapp,reply,pricing,Research Phase,helpful,"I can help review pricing for {vehicle} and outline the best next step based on whether you want finance, availability, or a test drive.",true
+TMP-020,email,reply,appointment,Immediate,professional,I can help with the next available appointment time at {dealership_name}. Share your preferred day and time and I’ll guide the next step.,true
+TMP-021,sms,reply,appointment,Short-Term,helpful,I can help find the next available appointment time. What day and time work best for you?,true
+TMP-022,whatsapp,reply,appointment,Research Phase,helpful,I can help you book a dealership visit or test drive appointment. Let me know your preferred time window.,true
+TMP-023,any,reply,general,Research Phase,professional,"Thanks for your message. I can help with inventory, pricing, financing, trade-ins, test drives, and appointments. Tell me what you’d like help with.",true
+TMP-024,any,reply,objection,Immediate,professional,"Thanks for sharing that. I can help clarify the options and next steps, and a sales specialist can step in if you'd like a detailed walkthrough.",true
+TMP-025,email,followup,test_drive,Immediate,professional,"Thanks for your interest in {vehicle}. If you'd like, I can help schedule a test drive at {dealership_name}.",true
+TMP-026,sms,followup,finance,Short-Term,helpful,"If financing is top of mind, I can help with estimated payments and next steps for a pre-check.",true
+TMP-027,whatsapp,followup,availability,Research Phase,helpful,"If you'd like, I can help check availability and also suggest similar vehicles.",true
+TMP-028,email,reminder,appointment,Short-Term,professional,Your appointment is confirmed for {appointment_time}. Reply here if you need to reschedule.,true
+TMP-029,sms,reminder,appointment,Immediate,helpful,Reminder: your appointment is set for {appointment_time}. Reply if you need to reschedule.,true
+TMP-030,whatsapp,reschedule,appointment,Immediate,helpful,"If your original time no longer works, I can help find a new appointment slot at {dealership_name}.",true

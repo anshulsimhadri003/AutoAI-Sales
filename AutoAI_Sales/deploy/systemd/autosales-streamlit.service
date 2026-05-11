@@ -1,0 +1,14 @@
+[Unit]
+Description=Halcyon Auto Sales Streamlit
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/opt/AutoAI_Sales
+Environment="PATH=/opt/AutoAI_Sales/.venv/bin"
+ExecStart=/opt/AutoAI_Sales/scripts/start_streamlit.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

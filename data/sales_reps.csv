@@ -1,0 +1,81 @@
+rep_id,rep_name,email,phone,dealership_id,dealership_name,location,vehicle_specialties,languages,max_active_leads,current_active_leads,is_available,manager_email,calendar_key
+REP-001,James Smith,james.smith1@demoauto.com,+1-813-289-7912,dealer-001,Liberty Auto Group,"Austin, TX",Luxury|SUV|Truck,English|Portuguese|Spanish,20,3,true,manager1@demoauto.com,dealer-001-rep-001
+REP-002,John Brown,john.brown2@demoauto.com,+1-813-629-4611,dealer-002,Summit Motors,"Dallas, TX",Commercial|Performance|Truck,English|Spanish,28,11,true,manager2@demoauto.com,dealer-002-rep-002
+REP-003,Robert Miller,robert.miller3@demoauto.com,+1-469-304-2519,dealer-003,Patriot Drive Auto,"Houston, TX",EV|Hybrid|Sedan,English|Spanish,28,6,true,manager3@demoauto.com,dealer-003-rep-003
+REP-004,Michael Martinez,michael.martinez4@demoauto.com,+1-615-280-5803,dealer-004,Redwood Auto Center,"Phoenix, AZ",EV|Luxury|Truck,English,30,14,true,manager4@demoauto.com,dealer-004-rep-004
+REP-005,William Gonzalez,william.gonzalez5@demoauto.com,+1-303-303-7227,dealer-005,Blue Ridge Motors,"Scottsdale, AZ",Performance|SUV|Truck,English,25,17,true,manager5@demoauto.com,dealer-005-rep-005
+REP-006,David Thomas,david.thomas6@demoauto.com,+1-919-273-3803,dealer-006,Prairie State Autos,"Denver, CO",EV|Family|Sedan,English|Spanish,30,10,true,manager6@demoauto.com,dealer-006-rep-006
+REP-007,Richard Jackson,richard.jackson7@demoauto.com,+1-818-424-6313,dealer-007,Sunbelt Vehicle Center,"Atlanta, GA",Hybrid|Luxury|Off-Road,English,20,10,true,manager7@demoauto.com,dealer-007-rep-007
+REP-008,Joseph Perez,joseph.perez8@demoauto.com,+1-832-935-6155,dealer-008,Great Lakes Automotive,"Orlando, FL",EV|Hybrid|Luxury,English|Spanish,22,18,false,manager8@demoauto.com,dealer-008-rep-008
+REP-009,Thomas Harris,thomas.harris9@demoauto.com,+1-813-469-8019,dealer-009,Canyon View Auto,"Tampa, FL",Luxury|Off-Road|Sedan,English|Spanish,30,15,true,manager9@demoauto.com,dealer-009-rep-009
+REP-010,Charles Ramirez,charles.ramirez10@demoauto.com,+1-224-842-3621,dealer-010,Coastal Highway Motors,"Miami, FL",Off-Road|Performance|Sedan,English|Portuguese|Spanish,28,5,false,manager10@demoauto.com,dealer-010-rep-010
+REP-011,Christopher Walker,christopher.walker11@demoauto.com,+1-201-896-2876,dealer-011,Heartland Auto Plaza,"Nashville, TN",Hybrid|Luxury|Off-Road,English,30,11,true,manager11@demoauto.com,dealer-011-rep-011
+REP-012,Daniel King,daniel.king12@demoauto.com,+1-786-980-3927,dealer-012,Capital City Motors,"Charlotte, NC",Hybrid|Luxury|SUV,English|Korean|Spanish,30,6,true,manager12@demoauto.com,dealer-012-rep-012
+REP-013,Matthew Torres,matthew.torres13@demoauto.com,+1-904-531-9005,dealer-013,Pioneer Auto Mall,"Raleigh, NC",Family|Performance|Sedan,English|French|Spanish,20,6,true,manager13@demoauto.com,dealer-013-rep-013
+REP-014,Anthony Flores,anthony.flores14@demoauto.com,+1-214-287-8962,dealer-014,Lone Star Auto Hub,"Columbus, OH",Luxury|Performance|Truck,English|Spanish,20,7,true,manager14@demoauto.com,dealer-014-rep-014
+REP-015,Mark Nelson,mark.nelson15@demoauto.com,+1-702-416-9835,dealer-001,Liberty Auto Group,"Austin, TX",Family|Off-Road|Sedan,English|Spanish,22,12,false,manager1@demoauto.com,dealer-001-rep-015
+REP-016,Donald Rivera,donald.rivera16@demoauto.com,+1-469-221-4770,dealer-002,Summit Motors,"Dallas, TX",EV|Family|Off-Road,English|Spanish,30,10,true,manager2@demoauto.com,dealer-002-rep-016
+REP-017,Steven Carter,steven.carter17@demoauto.com,+1-212-726-4899,dealer-003,Patriot Drive Auto,"Houston, TX",Performance|SUV|Truck,English|Spanish|Vietnamese,25,18,true,manager3@demoauto.com,dealer-003-rep-017
+REP-018,Paul Phillips,paul.phillips18@demoauto.com,+1-646-394-2545,dealer-004,Redwood Auto Center,"Phoenix, AZ",Family|Off-Road|Sedan,English|Spanish,20,16,true,manager4@demoauto.com,dealer-004-rep-018
+REP-019,Andrew Diaz,andrew.diaz19@demoauto.com,+1-206-612-6559,dealer-005,Blue Ridge Motors,"Scottsdale, AZ",Commercial|Hybrid|Off-Road,English|French,20,10,true,manager5@demoauto.com,dealer-005-rep-019
+REP-020,Joshua Edwards,joshua.edwards20@demoauto.com,+1-312-277-8260,dealer-006,Prairie State Autos,"Denver, CO",Family|Off-Road|Performance,Arabic|English|Spanish,30,6,true,manager6@demoauto.com,dealer-006-rep-020
+REP-021,Kenneth Smith,kenneth.smith21@demoauto.com,+1-239-616-8956,dealer-007,Sunbelt Vehicle Center,"Atlanta, GA",Family|SUV|Truck,English,28,9,false,manager7@demoauto.com,dealer-007-rep-021
+REP-022,Kevin Brown,kevin.brown22@demoauto.com,+1-720-492-7930,dealer-008,Great Lakes Automotive,"Orlando, FL",Hybrid|Sedan|Truck,English|Spanish,30,18,true,manager8@demoauto.com,dealer-008-rep-022
+REP-023,Brian Miller,brian.miller23@demoauto.com,+1-813-262-6138,dealer-009,Canyon View Auto,"Tampa, FL",Commercial|Luxury|Performance,English,20,4,false,manager9@demoauto.com,dealer-009-rep-023
+REP-024,George Martinez,george.martinez24@demoauto.com,+1-248-270-2113,dealer-010,Coastal Highway Motors,"Miami, FL",Commercial|Family|Sedan,English|Spanish,22,15,true,manager10@demoauto.com,dealer-010-rep-024
+REP-025,Edward Gonzalez,edward.gonzalez25@demoauto.com,+1-901-778-9565,dealer-011,Heartland Auto Plaza,"Nashville, TN",Commercial|Performance|Truck,English|Spanish,25,11,true,manager11@demoauto.com,dealer-011-rep-025
+REP-026,Ronald Thomas,ronald.thomas26@demoauto.com,+1-407-668-6180,dealer-012,Capital City Motors,"Charlotte, NC",EV|Luxury|Performance,English|Spanish,20,3,false,manager12@demoauto.com,dealer-012-rep-026
+REP-027,Timothy Jackson,timothy.jackson27@demoauto.com,+1-217-557-2127,dealer-013,Pioneer Auto Mall,"Raleigh, NC",Commercial|Family|SUV,English|Spanish,22,14,true,manager13@demoauto.com,dealer-013-rep-027
+REP-028,Jason Perez,jason.perez28@demoauto.com,+1-919-741-1128,dealer-014,Lone Star Auto Hub,"Columbus, OH",Luxury|Off-Road|Sedan,English|Spanish,30,12,true,manager14@demoauto.com,dealer-014-rep-028
+REP-029,Jeffrey Harris,jeffrey.harris29@demoauto.com,+1-224-478-5616,dealer-001,Liberty Auto Group,"Austin, TX",Luxury|SUV|Sedan,English,30,9,true,manager1@demoauto.com,dealer-001-rep-029
+REP-030,Ryan Ramirez,ryan.ramirez30@demoauto.com,+1-206-294-7939,dealer-002,Summit Motors,"Dallas, TX",Luxury|Off-Road|Performance,English|Spanish,25,4,true,manager2@demoauto.com,dealer-002-rep-030
+REP-031,Jacob Walker,jacob.walker31@demoauto.com,+1-702-774-1158,dealer-003,Patriot Drive Auto,"Houston, TX",EV|Luxury|Sedan,English|Spanish,20,5,true,manager3@demoauto.com,dealer-003-rep-031
+REP-032,Gary King,gary.king32@demoauto.com,+1-205-515-6974,dealer-004,Redwood Auto Center,"Phoenix, AZ",EV|Family|Truck,English|German|Spanish,20,14,true,manager4@demoauto.com,dealer-004-rep-032
+REP-033,Nicholas Torres,nicholas.torres33@demoauto.com,+1-646-835-3532,dealer-005,Blue Ridge Motors,"Scottsdale, AZ",EV|Performance|SUV,English,22,8,true,manager5@demoauto.com,dealer-005-rep-033
+REP-034,Eric Flores,eric.flores34@demoauto.com,+1-646-885-5065,dealer-006,Prairie State Autos,"Denver, CO",Hybrid|Sedan|Truck,English,25,8,true,manager6@demoauto.com,dealer-006-rep-034
+REP-035,Jonathan Nelson,jonathan.nelson35@demoauto.com,+1-720-558-6000,dealer-007,Sunbelt Vehicle Center,"Atlanta, GA",Hybrid|Off-Road|Truck,English|Spanish,22,10,true,manager7@demoauto.com,dealer-007-rep-035
+REP-036,Stephen Rivera,stephen.rivera36@demoauto.com,+1-480-856-9346,dealer-008,Great Lakes Automotive,"Orlando, FL",EV|Hybrid|Performance,English|Korean|Spanish,28,13,true,manager8@demoauto.com,dealer-008-rep-036
+REP-037,Larry Carter,larry.carter37@demoauto.com,+1-205-311-8119,dealer-009,Canyon View Auto,"Tampa, FL",Luxury|SUV|Sedan,English|Spanish,25,13,false,manager9@demoauto.com,dealer-009-rep-037
+REP-038,Justin Phillips,justin.phillips38@demoauto.com,+1-313-245-8144,dealer-010,Coastal Highway Motors,"Miami, FL",Commercial|Family|SUV,English|Spanish,20,9,true,manager10@demoauto.com,dealer-010-rep-038
+REP-039,Scott Diaz,scott.diaz39@demoauto.com,+1-216-937-5920,dealer-011,Heartland Auto Plaza,"Nashville, TN",EV|Hybrid|SUV,English|Spanish,30,12,false,manager11@demoauto.com,dealer-011-rep-039
+REP-040,Brandon Edwards,brandon.edwards40@demoauto.com,+1-248-830-5930,dealer-012,Capital City Motors,"Charlotte, NC",EV|Hybrid|Luxury,English|Spanish|Tagalog,28,3,true,manager12@demoauto.com,dealer-012-rep-040
+REP-041,Benjamin Smith,benjamin.smith41@demoauto.com,+1-410-676-8238,dealer-013,Pioneer Auto Mall,"Raleigh, NC",Hybrid|Luxury|Performance,English,28,9,false,manager13@demoauto.com,dealer-013-rep-041
+REP-042,Samuel Brown,samuel.brown42@demoauto.com,+1-469-295-4848,dealer-014,Lone Star Auto Hub,"Columbus, OH",Luxury|SUV|Sedan,English|Spanish,25,10,true,manager14@demoauto.com,dealer-014-rep-042
+REP-043,Frank Miller,frank.miller43@demoauto.com,+1-212-666-7790,dealer-001,Liberty Auto Group,"Austin, TX",Family|Sedan|Truck,English|Spanish,30,9,false,manager1@demoauto.com,dealer-001-rep-043
+REP-044,Gregory Martinez,gregory.martinez44@demoauto.com,+1-215-997-7965,dealer-002,Summit Motors,"Dallas, TX",Hybrid|Off-Road|Performance,English|Spanish,22,8,false,manager2@demoauto.com,dealer-002-rep-044
+REP-045,Raymond Gonzalez,raymond.gonzalez45@demoauto.com,+1-720-883-9702,dealer-003,Patriot Drive Auto,"Houston, TX",Family|Performance|Truck,English|Portuguese,30,13,false,manager3@demoauto.com,dealer-003-rep-045
+REP-046,Alexander Thomas,alexander.thomas46@demoauto.com,+1-239-961-8777,dealer-004,Redwood Auto Center,"Phoenix, AZ",Commercial|Family|Hybrid,English,28,11,true,manager4@demoauto.com,dealer-004-rep-046
+REP-047,Patrick Jackson,patrick.jackson47@demoauto.com,+1-212-930-5681,dealer-005,Blue Ridge Motors,"Scottsdale, AZ",Family|Luxury|Off-Road,English|Spanish,22,11,true,manager5@demoauto.com,dealer-005-rep-047
+REP-048,Jack Perez,jack.perez48@demoauto.com,+1-224-923-4505,dealer-006,Prairie State Autos,"Denver, CO",EV|Family|SUV,English|Spanish,20,16,false,manager6@demoauto.com,dealer-006-rep-048
+REP-049,Dennis Harris,dennis.harris49@demoauto.com,+1-646-598-1320,dealer-007,Sunbelt Vehicle Center,"Atlanta, GA",EV|Family|Off-Road,English|Spanish,30,15,false,manager7@demoauto.com,dealer-007-rep-049
+REP-050,Jerry Ramirez,jerry.ramirez50@demoauto.com,+1-646-751-9947,dealer-008,Great Lakes Automotive,"Orlando, FL",EV|Luxury|Truck,English,30,10,false,manager8@demoauto.com,dealer-008-rep-050
+REP-051,Tyler Walker,tyler.walker51@demoauto.com,+1-972-895-7624,dealer-009,Canyon View Auto,"Tampa, FL",Hybrid|Luxury|Performance,English|Spanish,22,17,true,manager9@demoauto.com,dealer-009-rep-051
+REP-052,Aaron King,aaron.king52@demoauto.com,+1-972-227-2375,dealer-010,Coastal Highway Motors,"Miami, FL",Commercial|Family|Truck,English,28,7,false,manager10@demoauto.com,dealer-010-rep-052
+REP-053,Jose Torres,jose.torres53@demoauto.com,+1-410-545-7211,dealer-011,Heartland Auto Plaza,"Nashville, TN",Luxury|Sedan|Truck,English|Spanish,25,16,true,manager11@demoauto.com,dealer-011-rep-053
+REP-054,Adam Flores,adam.flores54@demoauto.com,+1-303-865-2124,dealer-012,Capital City Motors,"Charlotte, NC",Off-Road|SUV|Truck,English|Korean,20,3,true,manager12@demoauto.com,dealer-012-rep-054
+REP-055,Nathan Nelson,nathan.nelson55@demoauto.com,+1-216-777-4571,dealer-013,Pioneer Auto Mall,"Raleigh, NC",Performance|Sedan|Truck,English|Spanish,28,11,true,manager13@demoauto.com,dealer-013-rep-055
+REP-056,Henry Rivera,henry.rivera56@demoauto.com,+1-407-789-7149,dealer-014,Lone Star Auto Hub,"Columbus, OH",Commercial|SUV|Sedan,English|Spanish,28,9,true,manager14@demoauto.com,dealer-014-rep-056
+REP-057,Douglas Carter,douglas.carter57@demoauto.com,+1-904-323-1672,dealer-001,Liberty Auto Group,"Austin, TX",Commercial|Performance|SUV,English,25,16,true,manager1@demoauto.com,dealer-001-rep-057
+REP-058,Zachary Phillips,zachary.phillips58@demoauto.com,+1-737-308-8102,dealer-002,Summit Motors,"Dallas, TX",EV|Family|SUV,English|Spanish,25,17,true,manager2@demoauto.com,dealer-002-rep-058
+REP-059,Peter Diaz,peter.diaz59@demoauto.com,+1-734-676-8136,dealer-003,Patriot Drive Auto,"Houston, TX",Hybrid|Luxury|Sedan,English|Spanish,30,11,true,manager3@demoauto.com,dealer-003-rep-059
+REP-060,Kyle Edwards,kyle.edwards60@demoauto.com,+1-720-783-7209,dealer-004,Redwood Auto Center,"Phoenix, AZ",Luxury|Performance|SUV,English,25,3,false,manager4@demoauto.com,dealer-004-rep-060
+REP-061,Walter Smith,walter.smith61@demoauto.com,+1-469-486-5526,dealer-005,Blue Ridge Motors,"Scottsdale, AZ",EV|Off-Road|Sedan,English|Spanish,30,3,true,manager5@demoauto.com,dealer-005-rep-061
+REP-062,Ethan Brown,ethan.brown62@demoauto.com,+1-734-861-9041,dealer-006,Prairie State Autos,"Denver, CO",Hybrid|Performance|SUV,English|Spanish,28,3,true,manager6@demoauto.com,dealer-006-rep-062
+REP-063,Jeremy Miller,jeremy.miller63@demoauto.com,+1-901-577-8753,dealer-007,Sunbelt Vehicle Center,"Atlanta, GA",Hybrid|Luxury|Performance,English,30,14,false,manager7@demoauto.com,dealer-007-rep-063
+REP-064,Harold Martinez,harold.martinez64@demoauto.com,+1-313-436-2976,dealer-008,Great Lakes Automotive,"Orlando, FL",Commercial|EV|Family,English,22,13,true,manager8@demoauto.com,dealer-008-rep-064
+REP-065,Keith Gonzalez,keith.gonzalez65@demoauto.com,+1-901-978-9595,dealer-009,Canyon View Auto,"Tampa, FL",Family|Performance|Sedan,English|Spanish,30,12,true,manager9@demoauto.com,dealer-009-rep-065
+REP-066,Christian Thomas,christian.thomas66@demoauto.com,+1-813-329-5494,dealer-010,Coastal Highway Motors,"Miami, FL",Commercial|Luxury|Performance,English|Spanish,20,4,true,manager10@demoauto.com,dealer-010-rep-066
+REP-067,Roger Jackson,roger.jackson67@demoauto.com,+1-734-690-8216,dealer-011,Heartland Auto Plaza,"Nashville, TN",Off-Road|SUV|Sedan,English,25,8,true,manager11@demoauto.com,dealer-011-rep-067
+REP-068,Noah Perez,noah.perez68@demoauto.com,+1-212-790-1878,dealer-012,Capital City Motors,"Charlotte, NC",Luxury|Off-Road|SUV,English,22,7,true,manager12@demoauto.com,dealer-012-rep-068
+REP-069,Gerald Harris,gerald.harris69@demoauto.com,+1-904-833-4697,dealer-013,Pioneer Auto Mall,"Raleigh, NC",Commercial|Performance|SUV,English|Spanish,30,15,false,manager13@demoauto.com,dealer-013-rep-069
+REP-070,Carl Ramirez,carl.ramirez70@demoauto.com,+1-915-957-2625,dealer-014,Lone Star Auto Hub,"Columbus, OH",Hybrid|Luxury|Off-Road,English|Spanish,22,9,true,manager14@demoauto.com,dealer-014-rep-070
+REP-071,Terry Walker,terry.walker71@demoauto.com,+1-646-661-8699,dealer-001,Liberty Auto Group,"Austin, TX",Performance|SUV|Sedan,English|French|Spanish,25,4,true,manager1@demoauto.com,dealer-001-rep-071
+REP-072,Sean King,sean.king72@demoauto.com,+1-313-840-4241,dealer-002,Summit Motors,"Dallas, TX",Commercial|Luxury|Off-Road,English|Spanish,28,6,true,manager2@demoauto.com,dealer-002-rep-072
+REP-073,Austin Torres,austin.torres73@demoauto.com,+1-904-966-5728,dealer-003,Patriot Drive Auto,"Houston, TX",Commercial|Luxury|Sedan,English|Korean|Spanish,28,6,false,manager3@demoauto.com,dealer-003-rep-073
+REP-074,Arthur Flores,arthur.flores74@demoauto.com,+1-214-812-1653,dealer-004,Redwood Auto Center,"Phoenix, AZ",Commercial|Hybrid|Luxury,English|Spanish,28,13,true,manager4@demoauto.com,dealer-004-rep-074
+REP-075,Lawrence Nelson,lawrence.nelson75@demoauto.com,+1-832-801-1339,dealer-005,Blue Ridge Motors,"Scottsdale, AZ",Performance|SUV|Truck,English,25,4,true,manager5@demoauto.com,dealer-005-rep-075
+REP-076,Jesse Rivera,jesse.rivera76@demoauto.com,+1-917-703-2494,dealer-006,Prairie State Autos,"Denver, CO",Commercial|Family|Off-Road,English|Vietnamese,28,14,false,manager6@demoauto.com,dealer-006-rep-076
+REP-077,Dylan Carter,dylan.carter77@demoauto.com,+1-737-495-7561,dealer-007,Sunbelt Vehicle Center,"Atlanta, GA",Commercial|EV|SUV,English,30,4,false,manager7@demoauto.com,dealer-007-rep-077
+REP-078,Bryan Phillips,bryan.phillips78@demoauto.com,+1-617-726-1018,dealer-008,Great Lakes Automotive,"Orlando, FL",EV|Luxury|SUV,English|Spanish,30,17,false,manager8@demoauto.com,dealer-008-rep-078
+REP-079,Joe Diaz,joe.diaz79@demoauto.com,+1-713-978-1845,dealer-009,Canyon View Auto,"Tampa, FL",EV|Performance|Truck,English|Spanish,22,11,true,manager9@demoauto.com,dealer-009-rep-079
+REP-080,Jordan Edwards,jordan.edwards80@demoauto.com,+1-904-445-3594,dealer-010,Coastal Highway Motors,"Miami, FL",Family|Luxury|Off-Road,English|Spanish,25,3,false,manager10@demoauto.com,dealer-010-rep-080

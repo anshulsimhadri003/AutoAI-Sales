@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+node_modules/
+dist/
+alembic.ini.bak
+*.db

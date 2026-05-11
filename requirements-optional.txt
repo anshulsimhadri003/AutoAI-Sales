@@ -1,0 +1,2 @@
+# Optional semantic acceleration. Install only when FAISS is supported on your deployment platform.
+faiss-cpu==1.10.0

@@ -1,0 +1,30 @@
+{
+  "createLead": {
+    "action": "CREATE_LEAD",
+    "sessionId": "5cde115d-682e-44e8-ad00-dc065407cbf3",
+    "data": {
+      "Name": "Rakesh P",
+      "PhoneNumber": "919573069795",
+      "Email": "[your-email]",
+      "Address": "Hyderabad",
+      "SessionId": "5cde115d-682e-44e8-ad00-dc065407cbf3",
+      "VehicleId": 1383266,
+      "VehicleName": "Tesla Model Y",
+      "Vin": "5YJYGDEE8MF123456",
+      "Year": "2025",
+      "Make": "Tesla",
+      "Model": "Model Y",
+      "Message": "Interested in test drive"
+    }
+  },
+  "trackEvent": {
+    "action": "TRACK_EVENT",
+    "sessionId": "5cde115d-682e-44e8-ad00-dc065407cbf3",
+    "eventType": "VEHICLE_CLICK",
+    "data": {
+      "VehicleId": 1383266,
+      "VehicleName": "Tesla Model Y",
+      "Message": "Clicked vehicle card from inventory results"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+sequence_id,name,channel,is_active,trigger_type
+SEQ-001,Truck Buyer 1,email,true,hot_lead
+SEQ-002,Weekend Shopper 2,sms,true,warm_lead
+SEQ-003,Rapid Response 3,whatsapp,true,cold_lead
+SEQ-004,Finance Assist 4,email,true,finance_intent
+SEQ-005,Appointment Push 5,sms,true,test_drive_intent
+SEQ-006,Reactivation 6,whatsapp,true,availability_check
+SEQ-007,Weekend Shopper 7,email,true,trade_in
+SEQ-008,Luxury Lead 8,sms,true,objection
+SEQ-009,Luxury Lead 9,whatsapp,true,ev_interest
+SEQ-010,Appointment Push 10,email,true,luxury_interest
+SEQ-011,Truck Buyer 11,sms,true,hot_lead
+SEQ-012,Luxury Lead 12,whatsapp,true,warm_lead
+SEQ-013,Appointment Push 13,email,true,cold_lead
+SEQ-014,Truck Buyer 14,sms,true,finance_intent
+SEQ-015,Weekend Shopper 15,whatsapp,true,test_drive_intent
+SEQ-016,Finance Assist 16,email,true,availability_check
+SEQ-017,Weekend Shopper 17,sms,true,trade_in
+SEQ-018,Appointment Push 18,whatsapp,true,objection
+SEQ-019,Finance Assist 19,email,true,ev_interest
+SEQ-020,Appointment Push 20,sms,true,luxury_interest
+SEQ-021,Weekend Shopper 21,whatsapp,true,hot_lead
+SEQ-022,EV Education 22,email,true,warm_lead
+SEQ-023,EV Education 23,sms,true,cold_lead
+SEQ-024,Weekend Shopper 24,whatsapp,true,finance_intent
+SEQ-025,Luxury Lead 25,email,true,test_drive_intent
+SEQ-026,Luxury Lead 26,sms,true,availability_check
+SEQ-027,Finance Assist 27,whatsapp,true,trade_in
+SEQ-028,Finance Assist 28,email,true,objection
+SEQ-029,EV Education 29,sms,true,ev_interest
+SEQ-030,Truck Buyer 30,whatsapp,true,luxury_interest
+SEQ-031,Weekend Shopper 31,email,true,hot_lead
+SEQ-032,Truck Buyer 32,sms,true,warm_lead
+SEQ-033,Finance Assist 33,whatsapp,true,cold_lead
+SEQ-034,Truck Buyer 34,email,true,finance_intent
+SEQ-035,Appointment Push 35,sms,true,test_drive_intent
+SEQ-036,Rapid Response 36,whatsapp,true,availability_check
+SEQ-037,EV Education 37,email,true,trade_in
+SEQ-038,EV Education 38,sms,true,objection
+SEQ-039,Appointment Push 39,whatsapp,true,ev_interest
+SEQ-040,Finance Assist 40,email,true,luxury_interest
+SEQ-041,Weekend Shopper 41,sms,true,hot_lead
+SEQ-042,Weekend Shopper 42,whatsapp,true,warm_lead
+SEQ-043,Luxury Lead 43,email,true,cold_lead
+SEQ-044,Reactivation 44,sms,true,finance_intent
+SEQ-045,Appointment Push 45,whatsapp,true,test_drive_intent
+SEQ-046,Reactivation 46,email,true,availability_check
+SEQ-047,Reactivation 47,sms,false,trade_in
+SEQ-048,Weekend Shopper 48,whatsapp,false,objection
+SEQ-049,Finance Assist 49,email,false,ev_interest
+SEQ-050,EV Education 50,sms,false,luxury_interest

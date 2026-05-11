@@ -1,0 +1,73 @@
+rule_id,intent_label,urgency_label,vehicle_available,action,priority
+NBA-001,finance,Immediate,true,Offer financing pre-check,1
+NBA-002,finance,Immediate,false,Offer financing pre-check,1
+NBA-003,finance,Short-Term,true,Offer financing pre-check,2
+NBA-004,finance,Short-Term,false,Offer financing pre-check,2
+NBA-005,finance,Research Phase,true,Offer financing pre-check,3
+NBA-006,finance,Research Phase,false,Offer financing pre-check,3
+NBA-007,test_drive,Immediate,true,Schedule test drive,1
+NBA-008,test_drive,Immediate,false,Recommend alternative vehicles,1
+NBA-009,test_drive,Short-Term,true,Schedule test drive,2
+NBA-010,test_drive,Short-Term,false,Recommend alternative vehicles,2
+NBA-011,test_drive,Research Phase,true,Schedule test drive,3
+NBA-012,test_drive,Research Phase,false,Recommend alternative vehicles,3
+NBA-013,availability,Immediate,true,Send availability update,1
+NBA-014,availability,Immediate,false,Recommend alternative vehicles,1
+NBA-015,availability,Short-Term,true,Send availability update,2
+NBA-016,availability,Short-Term,false,Recommend alternative vehicles,2
+NBA-017,availability,Research Phase,true,Send availability update,3
+NBA-018,availability,Research Phase,false,Recommend alternative vehicles,3
+NBA-019,trade_in,Immediate,true,Request trade-in details,1
+NBA-020,trade_in,Immediate,false,Request trade-in details,1
+NBA-021,trade_in,Short-Term,true,Request trade-in details,2
+NBA-022,trade_in,Short-Term,false,Request trade-in details,2
+NBA-023,trade_in,Research Phase,true,Request trade-in details,3
+NBA-024,trade_in,Research Phase,false,Request trade-in details,3
+NBA-025,pricing,Immediate,true,Send price breakdown,1
+NBA-026,pricing,Immediate,false,Send price breakdown,1
+NBA-027,pricing,Short-Term,true,Send price breakdown,2
+NBA-028,pricing,Short-Term,false,Send price breakdown,2
+NBA-029,pricing,Research Phase,true,Send price breakdown,3
+NBA-030,pricing,Research Phase,false,Send price breakdown,3
+NBA-031,family_vehicle,Immediate,true,Share family SUV options,1
+NBA-032,family_vehicle,Immediate,false,Share family SUV options,1
+NBA-033,family_vehicle,Short-Term,true,Share family SUV options,2
+NBA-034,family_vehicle,Short-Term,false,Share family SUV options,2
+NBA-035,family_vehicle,Research Phase,true,Share family SUV options,3
+NBA-036,family_vehicle,Research Phase,false,Share family SUV options,3
+NBA-037,truck_buyer,Immediate,true,Show truck inventory and towing specs,1
+NBA-038,truck_buyer,Immediate,false,Show truck inventory and towing specs,1
+NBA-039,truck_buyer,Short-Term,true,Show truck inventory and towing specs,2
+NBA-040,truck_buyer,Short-Term,false,Show truck inventory and towing specs,2
+NBA-041,truck_buyer,Research Phase,true,Show truck inventory and towing specs,3
+NBA-042,truck_buyer,Research Phase,false,Show truck inventory and towing specs,3
+NBA-043,luxury,Immediate,true,Invite for premium showroom visit,1
+NBA-044,luxury,Immediate,false,Invite for premium showroom visit,1
+NBA-045,luxury,Short-Term,true,Invite for premium showroom visit,2
+NBA-046,luxury,Short-Term,false,Invite for premium showroom visit,2
+NBA-047,luxury,Research Phase,true,Invite for premium showroom visit,3
+NBA-048,luxury,Research Phase,false,Invite for premium showroom visit,3
+NBA-049,ev_interest,Immediate,true,Send EV range and charging guide,1
+NBA-050,ev_interest,Immediate,false,Send EV range and charging guide,1
+NBA-051,ev_interest,Short-Term,true,Send EV range and charging guide,2
+NBA-052,ev_interest,Short-Term,false,Send EV range and charging guide,2
+NBA-053,ev_interest,Research Phase,true,Send EV range and charging guide,3
+NBA-054,ev_interest,Research Phase,false,Send EV range and charging guide,3
+NBA-055,objection,Immediate,true,Escalate to sales manager,1
+NBA-056,objection,Immediate,false,Escalate to sales manager,1
+NBA-057,objection,Short-Term,true,Escalate to sales manager,2
+NBA-058,objection,Short-Term,false,Escalate to sales manager,2
+NBA-059,objection,Research Phase,true,Escalate to sales manager,3
+NBA-060,objection,Research Phase,false,Escalate to sales manager,3
+NBA-061,general,Immediate,true,Send vehicle video,1
+NBA-062,general,Immediate,false,Send vehicle video,1
+NBA-063,general,Short-Term,true,Send vehicle video,2
+NBA-064,general,Short-Term,false,Send vehicle video,2
+NBA-065,general,Research Phase,true,Send vehicle video,3
+NBA-066,general,Research Phase,false,Send vehicle video,3
+NBA-067,appointment,Immediate,true,Confirm dealership visit,1
+NBA-068,appointment,Immediate,false,Recommend alternative vehicles,1
+NBA-069,appointment,Short-Term,true,Confirm dealership visit,2
+NBA-070,appointment,Short-Term,false,Recommend alternative vehicles,2
+NBA-071,appointment,Research Phase,true,Confirm dealership visit,3
+NBA-072,appointment,Research Phase,false,Recommend alternative vehicles,3

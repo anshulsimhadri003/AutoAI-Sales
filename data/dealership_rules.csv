@@ -1,0 +1,51 @@
+rule_id,dealership_id,dealership_name,response_sla_minutes,max_leads_per_rep,allow_after_hours_booking,default_test_drive_duration_mins,timezone
+DLR-001,dealer-001,Liberty Auto Group,10,22,true,60,America/Los_Angeles
+DLR-002,dealer-002,Summit Motors,7,30,true,60,America/New_York
+DLR-003,dealer-003,Patriot Drive Auto,5,20,true,30,America/Los_Angeles
+DLR-004,dealer-004,Redwood Auto Center,10,30,true,45,America/New_York
+DLR-005,dealer-005,Blue Ridge Motors,12,30,true,60,America/New_York
+DLR-006,dealer-006,Prairie State Autos,7,25,false,60,America/Los_Angeles
+DLR-007,dealer-007,Sunbelt Vehicle Center,10,22,false,60,America/Denver
+DLR-008,dealer-008,Great Lakes Automotive,10,25,false,30,America/New_York
+DLR-009,dealer-009,Canyon View Auto,10,25,true,45,America/Denver
+DLR-010,dealer-010,Coastal Highway Motors,7,30,false,45,America/Denver
+DLR-011,dealer-011,Heartland Auto Plaza,10,25,true,60,America/Los_Angeles
+DLR-012,dealer-012,Capital City Motors,12,25,true,45,America/Chicago
+DLR-013,dealer-013,Pioneer Auto Mall,10,20,false,45,America/Denver
+DLR-014,dealer-014,Lone Star Auto Hub,12,22,true,60,America/Denver
+DLR-015,dealer-001,Liberty Auto Group,10,22,true,60,America/New_York
+DLR-016,dealer-002,Summit Motors,7,20,true,60,America/New_York
+DLR-017,dealer-003,Patriot Drive Auto,5,20,false,45,America/Los_Angeles
+DLR-018,dealer-004,Redwood Auto Center,5,22,true,60,America/New_York
+DLR-019,dealer-005,Blue Ridge Motors,12,30,false,60,America/New_York
+DLR-020,dealer-006,Prairie State Autos,10,25,false,60,America/Chicago
+DLR-021,dealer-007,Sunbelt Vehicle Center,5,22,true,30,America/Los_Angeles
+DLR-022,dealer-008,Great Lakes Automotive,7,20,false,45,America/New_York
+DLR-023,dealer-009,Canyon View Auto,10,20,true,45,America/Chicago
+DLR-024,dealer-010,Coastal Highway Motors,10,25,false,60,America/Los_Angeles
+DLR-025,dealer-011,Heartland Auto Plaza,7,30,false,30,America/Chicago
+DLR-026,dealer-012,Capital City Motors,10,22,false,60,America/Denver
+DLR-027,dealer-013,Pioneer Auto Mall,7,20,false,45,America/New_York
+DLR-028,dealer-014,Lone Star Auto Hub,7,30,false,60,America/Denver
+DLR-029,dealer-001,Liberty Auto Group,5,30,true,30,America/New_York
+DLR-030,dealer-002,Summit Motors,12,25,true,30,America/Denver
+DLR-031,dealer-003,Patriot Drive Auto,12,22,false,45,America/Denver
+DLR-032,dealer-004,Redwood Auto Center,10,20,false,60,America/Denver
+DLR-033,dealer-005,Blue Ridge Motors,7,20,true,45,America/Denver
+DLR-034,dealer-006,Prairie State Autos,7,30,false,60,America/Chicago
+DLR-035,dealer-007,Sunbelt Vehicle Center,10,25,true,30,America/New_York
+DLR-036,dealer-008,Great Lakes Automotive,12,22,false,60,America/Denver
+DLR-037,dealer-009,Canyon View Auto,12,30,true,30,America/Chicago
+DLR-038,dealer-010,Coastal Highway Motors,12,25,true,60,America/Chicago
+DLR-039,dealer-011,Heartland Auto Plaza,5,22,true,30,America/Denver
+DLR-040,dealer-012,Capital City Motors,12,20,true,60,America/Los_Angeles
+DLR-041,dealer-013,Pioneer Auto Mall,5,30,true,45,America/New_York
+DLR-042,dealer-014,Lone Star Auto Hub,12,30,true,60,America/Los_Angeles
+DLR-043,dealer-001,Liberty Auto Group,10,20,false,45,America/Chicago
+DLR-044,dealer-002,Summit Motors,7,20,true,45,America/Denver
+DLR-045,dealer-003,Patriot Drive Auto,5,20,true,45,America/Chicago
+DLR-046,dealer-004,Redwood Auto Center,10,30,true,30,America/Los_Angeles
+DLR-047,dealer-005,Blue Ridge Motors,10,30,false,45,America/Los_Angeles
+DLR-048,dealer-006,Prairie State Autos,5,22,false,30,America/New_York
+DLR-049,dealer-007,Sunbelt Vehicle Center,12,22,true,30,America/Chicago
+DLR-050,dealer-008,Great Lakes Automotive,10,30,false,60,America/Los_Angeles
