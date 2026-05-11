@@ -1,4 +1,4 @@
-# [YourBrand] Auto Sales Digital Workers
+# AutoAI Sales Digital Workers
 
 Production-style backend + modern React frontend for the Sales Digital Workers project.
 
